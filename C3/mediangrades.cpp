@@ -38,7 +38,7 @@ int main() {
 	// sort homework grades
 	vec_sz size = homework.size();
 	if (size == 0)  {
-		cout << endl << "You must enter your homeworkgrades. "
+		cout << endl << "You must enter your homework grades. "
 		                "Please try again." << endl;
 		return 1;
 	}
